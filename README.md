@@ -1,3 +1,3 @@
 # cornucopia
 
-A Website in node
+A Website in node.
